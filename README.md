@@ -1,7 +1,7 @@
 # Projet Triple-GAN pour la Classification Semi-supervisée sur MNIST
 
 ## Auteurs
-- Mouhamed SAMB
+- Mouhamed Fadel SAMB
 - Moustapha KEBE
 - Mouhamadou lamine GNING
 - Birahim TEWE
