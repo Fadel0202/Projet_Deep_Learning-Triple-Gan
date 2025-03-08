@@ -71,8 +71,8 @@ pip install torch torchvision matplotlib numpy tqdm
 
 1. Clonez ce dépôt:
 ```bash
-git clone https://github.com/[votre-username]/triple-gan-mnist.git
-cd triple-gan-mnist
+git clone https://github.com/[votre-username]/Projet_Deep_Learning-Triple-Gan.git
+cd Projet_Deep_Learning-Triple-Gan
 ```
 
 2. Ouvrez le notebook dans Jupyter:
